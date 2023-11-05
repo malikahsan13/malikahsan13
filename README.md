@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malik Muhammad Ahsan
 - 👀 I’m interested in computer programming irrespective of any language.
-- 🌱 I’m currently learning Docker, Kubernetes, React Js and Vue Js.
+- 🌱 I’m currently learning NEST Js, TypeScript, Docker, Kubernetes, Vue Js.
 - 💞️ I’m looking to collaborate on Docker, Kubernetes Controllers.
 - 📫 You can reach me at malikahsan13@gmail.com
 
